@@ -1511,3 +1511,6 @@ Drupal 2.0.0, 2001-03-15
 Drupal 1.0.0, 2001-01-15
 ------------------------
 - Initial release
+
+------------------------
+CF added a line to this file
